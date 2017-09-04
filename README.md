@@ -4,16 +4,16 @@
 上传源码只是为了保留这段时间以来学习的成果，同时熟悉git的基本操作，如有侵权我会立即删除。
 如需关注原项目源码请移步：https://github.com/ustbhuangyi/vue-sell
 
-# 项目技术架构
+## 项目技术架构
 
->  vue
-   vue-cli	脚手架工具
-   vue-resource 后台数据交互（后台数据通过mock）
-   vue-router	前端路由实现单页应用
-   better-scroll 列表滚动插件（由黄奕老师开发的第三方js库）
-   html的localStorage	浏览器端键值对存储
-   webpack	构建打包工具
-   stylus	css预处理
+	* vue
+	* vue-cli	脚手架工具
+	*  vue-resource 后台数据交互（后台数据通过mock）
+	* vue-router	前端路由实现单页应用
+	* better-scroll 列表滚动插件（由黄奕老师开发的第三方js库）
+	*  html的localStorage	浏览器端键值对存储
+	* webpack	构建打包工具
+	* stylus	css预处理
 
 
 
