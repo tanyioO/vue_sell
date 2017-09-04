@@ -1,6 +1,8 @@
-# sell
+# vue_sell
 
-> sell app
+> 使用vue.js开发的一个类似饿了么的webapp。这是根据黄奕老师的课程开发的项目，
+上传源码只是为了保留这段时间以来敲代码的成果，同时熟悉git的基本操作。如有侵权我会立即删除。
+如要follow和star请移步原项目源码 ustbhuangyi/vue-sell
 
 ## Build Setup
 
