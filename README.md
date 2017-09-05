@@ -16,9 +16,16 @@
 * stylus                （css预处理）
 
 ### 项目图片演示
+
 * 商品详情页
-![Image text](https://raw.githubusercontent.com/graphicsd/vue_sell/master/img-forder/7.png )
+
+![Image text](https://raw.githubusercontent.com/graphicsd/vue_sell/master/img-forder/1.png )
 ![Image text](https://raw.githubusercontent.com/graphicsd/vue_sell/master/img-forder/2.png )
+
+* 弹出购物车、公告以及优惠信息
+
+![Image text](https://raw.githubusercontent.com/graphicsd/vue_sell/master/img-forder/3.png )
+![Image text](https://raw.githubusercontent.com/graphicsd/vue_sell/master/img-forder/4.png )
 
 ### 安装设置
 
