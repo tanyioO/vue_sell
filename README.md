@@ -27,6 +27,14 @@
 ![Image text](https://raw.githubusercontent.com/graphicsd/vue_sell/master/img-forder/3.png )
 ![Image text](https://raw.githubusercontent.com/graphicsd/vue_sell/master/img-forder/4.png )
 
+* 商家评价
+
+![Image text](https://raw.githubusercontent.com/graphicsd/vue_sell/master/img-forder/5.png )
+
+* 商家基本而信息
+
+![Image text](https://raw.githubusercontent.com/graphicsd/vue_sell/master/img-forder/6.png )
+
 ### 安装设置
 
 ###### 通过`npm`安装项目第三方依赖模块(需已安装[Node.js](https://nodejs.org/))
